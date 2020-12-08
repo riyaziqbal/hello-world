@@ -1,2 +1,4 @@
 # hello-world
-Creating my first repo
+Hello Earthlings,
+
+Greetings from the winter wonderland!
